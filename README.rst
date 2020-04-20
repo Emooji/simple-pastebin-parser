@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/shlomikushchi/simple-pastebin-parser)](https://repl.it/github/shlomikushchi/simple-pastebin-parser)
 .. image:: https://travis-ci.com/shlomikushchi/Simple-Pastebin-Parser.svg?branch=master
     :target: https://travis-ci.com/shlomikushchi/Simple-Pastebin-Parser
 
